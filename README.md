@@ -15,7 +15,7 @@ Esta é uma jornada prática, onde mostro os passos e conceitos fundamentais par
 
 ## `Slides`
 
-✓		[Slides](https://www.canva.com/design/DAGE-MtpJSM/KMPjNytPmP0I6G53JyfMkg/edit?utm_content=DAGE-MtpJSM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+✓		[Slides](https://www.canva.com/design/DAGFP1yHwiA/oUS2Guy9TdQ1tS877Vj10g/edit?utm_content=DAGFP1yHwiA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebuttonn)
 
 
 ## Descrição da aplicação:
